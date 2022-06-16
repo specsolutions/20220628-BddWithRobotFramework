@@ -1,0 +1,9 @@
+{
+  "robot.language-server.python": "${workspaceFolder}\\..\\env\\Scripts\\python.exe",
+  "[robotframework]": {
+  
+  },
+  "cSpell.words": [
+    "datatable"
+  ]
+}

@@ -1,0 +1,4 @@
+# Project requirements
+robotframework >= 5.0.0
+robotframework-requests >= 0.9.3
+robotframework-jsonlibrary >= 0.4.1
